@@ -1,7 +1,7 @@
 # Face_Similarity_facial-ratio_and_Embedding-vector_based
 
 # Categorical-Time-Series-Prediction-with-Embeddings
-![image](Data/스크린샷 2022-05-28 오후 12.01.56.png)
+![image]((https://github.com/jayl-ee/Face_Similarity_facial-ratio_and_Embedding-vector_based/blob/main/Data/스크린샷%202022-05-28%20오후%2012.01.56.png))
 
 플랫폼 내에서 고객 행동 데이터를 기반으로 다음 행동을 예측하여 Personalized한 서비스 제공할 수 있는 기회 제공을 목적으로 하며, L.POINT 데이터를 활용하였다.
 ### DSL 기업연계 프로젝트 (2022. 05)
