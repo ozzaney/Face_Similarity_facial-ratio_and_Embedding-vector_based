@@ -30,20 +30,20 @@ fire>=0.4.0
 
 ## File Definition
 ### 📁code
-| Data
-| Model -- deepface
-             -- * deepface -- basemodels
-                           -- commons
-                           -- weight
-                           -- preprocessing.ipynb
-                           -- DeepFace.py
-                           -- get_ratio.py
-                           -- get_ratio_side.py
+#####| Data\
+#####| Model -- deepface /
+             -- * deepface -- basemodels/
+                           -- commons/
+                           -- weight/
+                           -- preprocessing.ipynb/
+                           -- DeepFace.py/
+                           -- get_ratio.py/
+                           -- get_ratio_side.py/
 
-        -- penultimate_layer
-            -- Attention
-            -- Tree-based
-            -- Vers
+        -- penultimate_layer/
+            -- Attention/
+            -- Tree-based/
+            -- Vers/
 
 
 ___
@@ -63,6 +63,7 @@ ___
 
     #get facial ratio
     get_ratio.get_ratio( IMG_PATH )
+```
 
     
 
