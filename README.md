@@ -11,39 +11,39 @@ ___
 이승재, 황다연, 손예진, 전재현, 이승연, 이승주
 ___
 ### Requirements
-numpy>=1.14.0
-pandas>=0.23.4
-gdown>=3.10.1
-tqdm>=4.30.0
-Pillow>=5.2.0
-opencv-python>=4.5.5.64
-opencv-contrib-python>=4.3.0.36
-tensorflow>=1.9.0
-keras>=2.2.0
-Flask>=1.1.2
-mtcnn>=0.1.0
-lightgbm>=2.3.1
-dlib>=19.20.0
-retina-face>=0.0.1
-mediapipe>=0.8.7.3
-fire>=0.4.0
+numpy>=1.14.0\
+pandas>=0.23.4\
+gdown>=3.10.1\
+tqdm>=4.30.0\
+Pillow>=5.2.0\
+opencv-python>=4.5.5.64\
+opencv-contrib-python>=4.3.0.36\
+tensorflow>=1.9.0\
+keras>=2.2.0\
+Flask>=1.1.2\
+mtcnn>=0.1.0\
+lightgbm>=2.3.1\
+dlib>=19.20.0\
+retina-face>=0.0.1\
+mediapipe>=0.8.7.3\
+fire>=0.4.0\
 
 ## File Definition
 ### 📁code
 #####| Data\
-#####| Model -- deepface /
-             -- * deepface -- basemodels/
-                           -- commons/
-                           -- weight/
-                           -- preprocessing.ipynb/
-                           -- DeepFace.py/
-                           -- get_ratio.py/
-                           -- get_ratio_side.py/
+#####| Model -- deepface \
+             -- * deepface -- basemodels\
+                           -- commons\
+                           -- weight\
+                           -- preprocessing.ipynb\
+                           -- DeepFace.py\
+                           -- get_ratio.py\
+                           -- get_ratio_side.py\
 
-        -- penultimate_layer/
-            -- Attention/
-            -- Tree-based/
-            -- Vers/
+        -- penultimate_layer\
+            -- Attention\
+            -- Tree-based\
+            -- Vers\
 
 
 ___
